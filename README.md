@@ -1,0 +1,2 @@
+# wechatAutoJump
+just for fun
